@@ -11,6 +11,7 @@ The goal is to better understand sales patterns, customer preferences, and item 
 📁 Sample Dataset Preview
 ![Image](https://github.com/user-attachments/assets/453408db-349c-4595-9388-d11a26be558d)
 
+-
 📌 Business KPIs
 ![Image](https://github.com/user-attachments/assets/56ca581b-9314-47b9-8424-546d24eb435a)
 📈 Total Sales: $1,201,681
