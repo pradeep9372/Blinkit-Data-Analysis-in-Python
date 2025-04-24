@@ -1,34 +1,41 @@
-# 🛒 Blinkit Data Analysis in Python
+📊 Blinkit Data Analysis in Python
+This project focuses on performing data analysis on Blinkit’s product dataset to derive meaningful business insights and visualizations. It covers:
 
-This project performs an exploratory data analysis (EDA) of product listings from Blinkit, an instant delivery platform, using Python and its powerful data analysis libraries.
+Exploratory Data Analysis (EDA)
 
----
+KPI calculation (e.g., Total Sales, Average Rating)
 
-📊 Features of the Analysis
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA) including:
-- `Category-wise product distribution`
-- `Price range insights`
-- `Brand frequency analysis`
--`Discount statistics`
-Visualizations using Matplotlib and Seaborn
-Key observations and business insights
+Category and brand-based analysis
 
----
+Visual storytelling through charts
 
-🧰 Tech Stack
-- `Python 🐍`
-- `Pandas`
-- `Matplotlib`
-- `Seaborn`
-- `Jupyter Notebook`
+The goal is to better understand sales patterns, customer preferences, and item distribution to support business decisions.
 
----
+📁 Sample Dataset Preview
 
-🔍 Dataset Info
-Source: Exported from Blinkit's online store
-Contents: Product names, categories, prices, discounts, brands, and more
+📌 Business KPIs
+📈 Total Sales: $1,201,681
 
-📈 Sample Visuals
+💰 Average Sales: $141
 
-Include visuals like bar charts and pie charts from your notebook if you’re displaying it on GitHub.
+📦 Number of Items Sold: 8,523
+
+⭐ Average Rating: 4.0
+
+
+📉 Data Visualizations
+1. Sales by Fat Content
+![Image](https://github.com/user-attachments/assets/453408db-349c-4595-9388-d11a26be558d)
+2. Outlet Tier by Fat Content
+
+3. Sales by Outlet Establishment Year
+
+🛠️ Technologies Used
+Python (Pandas, Matplotlib, Seaborn, NumPy)
+
+Jupyter Notebook
+
+CSV Data Manipulation
+
+📌 Conclusion
+This analysis provides valuable insights into Blinkit's product categories, fat content preferences, and outlet performance. It's a strong demonstration of how data analysis can support operational and marketing strategies in the e-commerce sector.
